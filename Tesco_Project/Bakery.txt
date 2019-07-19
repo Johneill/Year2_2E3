@@ -1,0 +1,5 @@
+brown_bread	12/6/18	 1	2.00
+white_bread	12/4/18	 3	1.50
+croissants 	12/5/18  2	0.60
+cake    	12/9/18	 9	4.00
+buns           12/9/18  6	0.90

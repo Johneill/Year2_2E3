@@ -1,0 +1,5 @@
+custard_creams	12/6/19	 10	1.00
+coco_pops	01/9/18	 4	3.00
+chocolate	30/5/18  12	1.00
+Nuts       	14/7/18	 7	2.50
+pasta          10/8/18  7	0.89

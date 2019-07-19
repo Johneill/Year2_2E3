@@ -1,0 +1,5 @@
+Sprite		2/6/18	 12	1.00
+Fanta		1/4/18	 4	1.50
+Fizzy_water	16/9/18  8	0.47
+Robinsons	25/7/18	 7	3.00
+Wine           1/9/18  7	7.00
